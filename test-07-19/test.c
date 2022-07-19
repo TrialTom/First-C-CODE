@@ -1,29 +1,29 @@
 #define _CRT_SECURE_NO_WARNINGS
-
+//ä»£ç æ˜¯åœ¨vs2022ç¯å¢ƒä¸‹è·‘çš„
 #include <stdio.h>
-//ÅĞ¶ÏÒ»¸öÊıÊÇ·ñÎªÆæÊı
+//åˆ¤æ–­ä¸€ä¸ªæ•°æ˜¯å¦ä¸ºå¥‡æ•°
 int main()
 {
 	double  a = 0;
 	int A = 0;
-	printf("ÊäÈëÒ»¸öÕûÊı£º");
+	printf("è¾“å…¥ä¸€ä¸ªæ•´æ•°ï¼š");
 	scanf("%lf", &a);
 	/*printf("%lf\n", a);*/
 	A = (int)a;
 	if (0 != a - A)
 	{
-		printf("ÊäÈëµÄÊÇĞ¡Êı£¬Ğ¡Êı¼È²»ÊÇÆæÊıÒ²²»ÊÇÅ¼Êı£¡");
+		printf("è¾“å…¥çš„æ˜¯å°æ•°ï¼Œå°æ•°æ—¢ä¸æ˜¯å¥‡æ•°ä¹Ÿä¸æ˜¯å¶æ•°ï¼");
 		return 0;
 	}
 	else
 	{
 		if (0 == A % 2 || 0 == A)
 		{
-			printf("Å¼Êı");
+			printf("å¶æ•°");
 			return 0;
 		}
 		else {
-			printf("ÆæÊı");
+			printf("å¥‡æ•°");
 			return 0;
 		}
 	}
