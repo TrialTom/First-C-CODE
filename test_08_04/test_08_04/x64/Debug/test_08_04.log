@@ -1,0 +1,4 @@
+﻿  test.c
+E:\CLass Work\first-C-code\test_08_04\test_08_04\test.c(19): warning C4716: “Print”: 必须返回一个值
+E:\CLass Work\first-C-code\test_08_04\test_08_04\test.c(31): warning C4716: “reverse”: 必须返回一个值
+  test_08_04.vcxproj -> E:\CLass Work\first-C-code\test_08_04\x64\Debug\test_08_04.exe
