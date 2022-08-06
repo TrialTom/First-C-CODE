@@ -1,0 +1,6 @@
+﻿  test.c
+E:\CLass Work\工程\test_08_06_01\test_08_06_01\test.c(8,12): warning C4013: “StrLen”未定义；假设外部返回 int
+E:\CLass Work\工程\test_08_06_01\test_08_06_01\test.c(45,11): warning C4013: “strlen”未定义；假设外部返回 int
+E:\CLass Work\工程\test_08_06_01\test_08_06_01\test.c(47,22): warning C4020: “reverse_string”: 实参太多
+E:\CLass Work\工程\test_08_06_01\test_08_06_01\test.c(14): warning C4716: “reverse_string”: 必须返回一个值
+  test_08_06_01.vcxproj -> E:\CLass Work\工程\test_08_06_01\x64\Debug\test_08_06_01.exe
