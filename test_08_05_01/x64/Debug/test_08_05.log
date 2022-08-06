@@ -1,0 +1,4 @@
+﻿  test.c
+E:\CLass Work\test_08_05\test_08_05\test.c(24,17): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+E:\CLass Work\test_08_05\test_08_05\test.c(40): warning C4716: “Statistical_One1”: 必须返回一个值
+  test_08_05.vcxproj -> E:\CLass Work\test_08_05\x64\Debug\test_08_05.exe
