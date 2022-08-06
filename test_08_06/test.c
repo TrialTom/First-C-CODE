@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 
-//������������в�ͬλ�ĸ���
+//需求：求二进制中不同位的个数
 #include <stdio.h>
 int get_diff_bit(m, n)
 {
@@ -13,17 +13,17 @@ int get_diff_bit(m, n)
 	}
 	return count;
 }
-//��ӡ�����Ƶ�����λ��ż��λ
+//打印二进制的奇数位，偶数位
 void Print(int m)
 {
 	int i = 0;
-	printf("����λ ");
+	printf("奇数位 ");
 	for (i = 30; i >=0; i-=2)
 	{
 			printf("%d ", (m >> i) & 1);
 	}
 	printf("\n");
-	printf("ż��λ ");
+	printf("偶数位 ");
 	for (i = 31; i >= 1; i-=2)
 	{
 			printf("%d ", (m >> i) & 1);
