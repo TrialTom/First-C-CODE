@@ -1,0 +1,3 @@
+﻿  PPDI.c
+E:\CLass Work\工程\test_08_06_03\test_08_06_03\PPDI.c(32,11): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  test_08_06_03.vcxproj -> E:\CLass Work\工程\test_08_06_03\x64\Debug\test_08_06_03.exe
