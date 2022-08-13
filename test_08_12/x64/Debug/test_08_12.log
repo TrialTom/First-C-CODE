@@ -1,0 +1,11 @@
+﻿  test.c
+E:\CLass Work\工程\test_08_12\test_08_12\test.c(67,16): warning C4047: “=”:“int”与“int *”的间接级别不同
+E:\CLass Work\工程\test_08_12\test_08_12\test.c(82,12): warning C4047: “函数”:“int *(__cdecl *)(int,int)”与“int (__cdecl *)(int,int)”的间接级别不同
+E:\CLass Work\工程\test_08_12\test_08_12\test.c(82,9): warning C4024: “Calc”: 形参和实参 1 的类型不同
+E:\CLass Work\工程\test_08_12\test_08_12\test.c(85,12): warning C4047: “函数”:“int *(__cdecl *)(int,int)”与“int (__cdecl *)(int,int)”的间接级别不同
+E:\CLass Work\工程\test_08_12\test_08_12\test.c(85,9): warning C4024: “Calc”: 形参和实参 1 的类型不同
+E:\CLass Work\工程\test_08_12\test_08_12\test.c(88,12): warning C4047: “函数”:“int *(__cdecl *)(int,int)”与“int (__cdecl *)(int,int)”的间接级别不同
+E:\CLass Work\工程\test_08_12\test_08_12\test.c(88,9): warning C4024: “Calc”: 形参和实参 1 的类型不同
+E:\CLass Work\工程\test_08_12\test_08_12\test.c(91,12): warning C4047: “函数”:“int *(__cdecl *)(int,int)”与“int (__cdecl *)(int,int)”的间接级别不同
+E:\CLass Work\工程\test_08_12\test_08_12\test.c(91,9): warning C4024: “Calc”: 形参和实参 1 的类型不同
+  test_08_12.vcxproj -> E:\CLass Work\工程\test_08_12\x64\Debug\test_08_12.exe
