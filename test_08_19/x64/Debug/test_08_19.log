@@ -1,0 +1,5 @@
+﻿  test.c
+E:\CLass Work\工程\test_08_19\test_08_19\test.c(41,12): warning C4090: “return”: 不同的“const”限定符
+E:\CLass Work\工程\test_08_19\test_08_19\test.c(45,10): warning C4090: “=”: 不同的“const”限定符
+E:\CLass Work\工程\test_08_19\test_08_19\test.c(39,1): warning C4090: “初始化”: 不同的“const”限定符
+  test_08_19.vcxproj -> E:\CLass Work\工程\test_08_19\x64\Debug\test_08_19.exe
