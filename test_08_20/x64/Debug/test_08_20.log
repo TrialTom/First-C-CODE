@@ -1,0 +1,4 @@
+﻿  test.c
+E:\CLass Work\工程\test_08_20\test_08_20\test.c(40,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\CLass Work\工程\test_08_20\test_08_20\test.c(40,9): message : 请考虑在格式字符串中使用“%zd”
+  test_08_20.vcxproj -> E:\CLass Work\工程\test_08_20\x64\Debug\test_08_20.exe
