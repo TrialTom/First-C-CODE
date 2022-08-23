@@ -1,0 +1,3 @@
+﻿  test.c
+E:\CLass Work\leetcode\test_08_23\test_08_23\test.c(35): warning C4172: 返回局部变量或临时变量的地址: p
+  test_08_23.vcxproj -> E:\CLass Work\leetcode\test_08_23\x64\Debug\test_08_23.exe
